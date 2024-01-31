@@ -3,3 +3,4 @@ I'm already on exercise 2 of the lab.
 
 creating some conflicts... from the new branch
 (this)
+Moses: Hey Diana! are you done creating your file for lab 2??
