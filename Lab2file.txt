@@ -1,1 +1,4 @@
 I am creating a file for the lab 2 of my CET class!!
+I'm already on exercise 2 of the lab.
+
+creating some conflicts...
